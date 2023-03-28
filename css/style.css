@@ -1,0 +1,32 @@
+h1 {
+    color: rgba(231, 33, 11, 0.806);
+}
+
+h2 {
+    color: rgba(228, 162, 19, 0.954);
+}
+
+a {
+    color: rgba(17, 9, 255, 0.954);
+}
+
+html {
+    background-color: aqua;
+}
+
+img {
+    width: 250px;
+    margin-left: 70px;
+}
+
+.big_text {
+    font-size: 1.5rem;
+}
+
+ul {
+    list-style-type: square; /* Квадратные маркеры */
+}
+
+a:hover {
+    color: red;
+}
